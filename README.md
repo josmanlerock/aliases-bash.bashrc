@@ -9,7 +9,7 @@ en la consola simplemente ponemos la y mas el nombre del programa a instalar
 
 #Instalacion
 
-sudo sh install.sh
+sh install.sh
 
 para que funciones tenermos que cerrar y abrir la consola
 
